@@ -1,0 +1,29 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "71d4b25bb0ae135b0aea18b335ad2bce1e44347d9b33cabf92c602c4b704e91d"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.11"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "phonenumbers": {
+            "hashes": [
+                "sha256:6d63455012fc9431105ffc7739befca61c3efc551b287dca58d2be2e745475a9",
+                "sha256:a577a46c069ad889c7b7cf4dd978751d059edeab28b97acead4775d2ea1fc70a"
+            ],
+            "index": "pypi",
+            "version": "==8.13.4"
+        }
+    },
+    "develop": {}
+}
